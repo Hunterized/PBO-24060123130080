@@ -2,7 +2,7 @@
 
 public class MMahasiswa {
     public static void main(String[] args) {
-        System.out.println("==========Membuat Objek Titik==========");
+        System.out.println("==========Membuat Objek==========");
         
         MataKuliah CALC2 = new MataKuliah("0025","Kalkulus 2",2);
         MataKuliah PBO = new MataKuliah("0421", "Pemrogramman Berbasis Objek", 3);
